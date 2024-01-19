@@ -31,9 +31,9 @@
     text-align: center;
     line-height:100vh;
     text-transform:uppercase;
-    background-color: #fff;
+    background-color: rgb(255,255,255,0.1);
     mix-blend-mode: screen;
+    color: white;
     
   }
-  
   
